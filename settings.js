@@ -19,7 +19,7 @@ module.exports = {
     // To listen on all IPv6 addresses, set uiHost to "::",
     // The following property can be used to listen on a specific interface. For
     // example, the following would only allow connections from the local machine.
-    uiHost: "https://vps41798nl.hyperhost.name/nr",
+    uiHost: "vps41798nl.hyperhost.name",
 
     // Retry time in milliseconds for MQTT connections
     mqttReconnectTime: 15000,
